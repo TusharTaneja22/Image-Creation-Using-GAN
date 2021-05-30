@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May 30 13:28:51 2021
 
-@author: MYPC
-"""
 from __future__ import print_function
 import torch
 import torch.nn as nn
